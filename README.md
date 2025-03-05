@@ -1,4 +1,4 @@
-# arbitrage
+# Options Arbitrage CLI
 A Rust CLI tool to identify option arbitrages between different exchanges
 
 ## Running the server
